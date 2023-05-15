@@ -1,3 +1,3 @@
 <template>
-  --- Variant Selection ---
+  <div></div>
 </template>
