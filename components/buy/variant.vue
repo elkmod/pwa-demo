@@ -1,0 +1,3 @@
+<template>
+  --- Variant Selection ---
+</template>
